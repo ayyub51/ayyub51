@@ -18,11 +18,12 @@
 
 ---
 
+
 ### 🚀 Featured Repositories
 
 <div align="center">
   <!-- Left Pinned Card: Main Automation Suite -->
-  <a href="https://github.com/A12_Bypass_OSS">
+  <a href="https://github.com">
     <img src="https://vercel.app" width="48%" alt="A12 Bypass OSS Suite" />
   </a>
   
@@ -31,6 +32,9 @@
     <img src="https://vercel.app" width="48%" alt="Profile Repository Source" />
   </a>
 </div>
+
+
+
 
 ---
 
