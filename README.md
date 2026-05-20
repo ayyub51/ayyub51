@@ -19,18 +19,10 @@
 ---
 
 
-### 🚀 Featured Repositories
 
-<div align="center">
-  <!-- Left Pinned Card: Main Automation Suite -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" width="48%" alt="A12 Bypass OSS Suite" />
-  </a>
-  
+
   <!-- Right Pinned Card: Custom Profile Source -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" width="48%" alt="Profile Repository Source" />
-  </a>
+
 </div>
 
 
@@ -52,37 +44,24 @@
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **AI / Machine Learning** | ![TensorFlow](https://shields.io) ![Python](https://shields.io) • On-Device Inference • Edge Intelligence |
-| **Mobile & Android Low-Level** | ![Android](https://shields.io) ![Kotlin](https://shields.io) ![Flutter](https://shields.io) • Recovery Utilities • Partitions |
-| **DevOps & Cloud Tools** | ![Docker](https://shields.io) ![Git](https://shields.io) ![GitHub Actions](https://shields.io) |
+| **AI / Machine Learning** |  • On-Device Inference • Edge Intelligence |
+| **Mobile & Android Low-Level** |  • Recovery Utilities • Partitions |
+| **DevOps & Cloud Tools** | [Docker] |
 | **Architecture & Database** | Mobile Security • Embedded Databases • Model Compression • Clean Architecture |
 
 ---
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-* 📌 [Bypasses on Modern Ecosystem Architectures](https://github.com)
-* 📌 [Optimizing Mobile Silicon for Deep Learning Models](https://github.com)
-* 📌 [Deep Dive into iOS Activation & Automation Chains](https://github.com)
+* 📌 [Bypasses on Modern Ecosystem Architectures]
+* 📌 [Optimizing Mobile Silicon for Deep Learning Models]
+* 📌 [Deep Dive into iOS Activation & Automation Chains]
 <!-- BLOG-POST-LIST:END -->
 *(This section updates dynamically every 12 hours via GitHub Actions)*
 
 ---
 
-### 📊 GitHub Analytics & Productivity
 
-<div align="center">
-  <img src="https://vercel.app" alt="Muhammad's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</div>
-
----
 
 ### ⚡ Fun Facts
 *   🎧 Love immersing myself in music during complex optimization sprints.
