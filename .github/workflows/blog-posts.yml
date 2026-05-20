@@ -1,0 +1,20 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    # Automatically triggers every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to manually trigger it via the Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update Profile README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Change this link to your actual Dev.to, Medium, or Hashnode RSS feed URL
+          feed_list: "https://medium.com"
+          max_post_count: 3
