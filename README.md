@@ -16,14 +16,12 @@
 *   ⚙️ **System Architecture:** Expert in working with low-level Android frameworks, customized recovery files, and cross-platform mobile environments.
 *   ⚡ **Growth Mindset:** Dedicated to pushing the boundaries of what mobile hardware can execute locally and securely.
 
----
 
 
 
 
   <!-- Right Pinned Card: Custom Profile Source -->
 
-</div>
 
 
 
@@ -46,7 +44,7 @@
 | :--- | :--- |
 | **AI / Machine Learning** |  • On-Device Inference • Edge Intelligence |
 | **Mobile & Android Low-Level** |  • Recovery Utilities • Partitions |
-| **DevOps & Cloud Tools** | [Docker] |
+| **DevOps & Cloud Tools** |  • Docker |
 | **Architecture & Database** | Mobile Security • Embedded Databases • Model Compression • Clean Architecture |
 
 ---
